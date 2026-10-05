@@ -1,18 +1,10 @@
-<img width="735" height="412" alt="download" src="https://github.com/user-attachments/assets/482ed087-96cb-44b0-84df-68ce79aacbbd" />
 <div align="center">
 
-<!-- TO ADD YOUR PIXEL ART: 
-1. Save the image you like from Pinterest to your computer.
-2. Open your README.md in GitHub's edit mode.
-3. Drag and drop the saved image directly into the GitHub text editor. 
-4. GitHub will automatically generate a link (https://github.com/user-attachments/assets/...). 
-5. Paste that link inside the src="..." below! -->![Uploading Screenshot 2026-10-05 230156.png…]()
+<img src="https://github.com/user-attachments/assets/482ed087-96cb-44b0-84df-68ce79aacbbd" alt="Profile Banner" width="100%" height="250" style="object-fit: cover; border-radius: 15px; margin-bottom: 20px;" />
 
+#   Sutirth Dubey 🌠
 
-
-#   Sutirth Dubey🌠 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI+%26+Deep+Tech+Enthusiast;Building+Agentic+AI+Workflows;Cybersecurity+%26+OSINT+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI+%26+Deep+Tech+Enthusiast;Building+Agentic+AI+Workflows;Developing+Autonomous+AI+Agents" alt="Typing SVG" />
 
 ---
 
