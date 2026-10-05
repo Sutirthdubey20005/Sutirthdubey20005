@@ -1,3 +1,4 @@
+<img width="735" height="412" alt="download" src="https://github.com/user-attachments/assets/482ed087-96cb-44b0-84df-68ce79aacbbd" />
 <div align="center">
 
 <!-- TO ADD YOUR PIXEL ART: 
@@ -8,7 +9,6 @@
 5. Paste that link inside the src="..." below! -->![Uploading Screenshot 2026-10-05 230156.png…]()
 
 
-<img src="https://i.imgur.com/q3vL3U9.gif" alt="Pixel Art Landscape" width="100%" style="border-radius: 15px; margin-bottom: 20px; max-height: 250px; object-fit: cover;" />
 
 #   Sutirth Dubey🌠 
 
