@@ -1,4 +1,4 @@
-#                                                               Sutirth Dubey 💫
+#                                                                  Sutirth Dubey 💫
  I'm currently working on DevDuo & AI-powered autonomous driving projects<br>👥 I'm looking to collaborate on CTF challenges, ML research, and open source<br>🤝 I'm looking for help with scaling real-time WebRTC applications<br>🌱 I'm currently learning MERN stack and system design<br>💬 Ask me about OSINT, CTF design, radar ML, or defence tech<br>⚡ Fun fact I write defence tech stories and run an Instagram channel on Indian defence science
 
 
