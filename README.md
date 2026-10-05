@@ -1,31 +1,39 @@
 <div align="center">
 
-#   Sutirth Dubey ☄️
+<img src="https://i.pinimg.com/originals/a7/67/62/a76762391054b1fce5296057aab6a4f9.gif" alt="Anime Cyberpunk Tech Vibe" width="100%" style="border-radius: 15px; margin-bottom: 20px; max-height: 250px; object-fit: cover;" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI+%26+Deep+Tech+Enthusiast;Cybersecurity+%26+OSINT+Researcher;Working+on+Autonomous+Driving" alt="Typing SVG" />
+# 🌠 Sutirth Dubey
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI+%26+Deep+Tech+Enthusiast;Building+Agentic+AI+Workflows;Cybersecurity+%26+OSINT+Researcher" alt="Typing SVG" />
 
 ---
 
 ### 👨🏻‍💻 About Me
 
-🔭 I'm currently working on **DevDuo & AI-powered autonomous driving projects**  
-🤝 I'm looking to collaborate on **CTF challenges, ML research, and open source**  
+🔭 I'm currently working on **DevDuo, Agentic LLM Apps & autonomous driving**  
+🤝 I'm looking to collaborate on **CTF challenges, AI Agents, and open source**  
 🆘 I'm looking for help with scaling **real-time WebRTC applications**  
-🌱 I'm currently learning **MERN stack and system design**  
-💬 Ask me about **OSINT, CTF design, radar ML, or defence tech**  
+🌱 I'm currently learning **MERN stack and scalable system design**  
+💬 Ask me about **Agentic RAG, OSINT, radar ML, or defence tech**  
 ⚡ Fun fact: **I write defence tech stories and run an Instagram channel on Indian defence science**  
+
+<br>
+
+### 📈 My Coding Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sutirthdubey20005&theme=tokyonight&hide_border=true&area=true" width="90%" />
 
 ---
 
 ### 💻 Tech Stack
 
-**AI, Data & Machine Learning** <br>
+**GenAI, Machine Learning & Data** <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Backend & Frameworks** <br>
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
