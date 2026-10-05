@@ -1,8 +1,16 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/a7/67/62/a76762391054b1fce5296057aab6a4f9.gif" alt="Anime Cyberpunk Tech Vibe" width="100%" style="border-radius: 15px; margin-bottom: 20px; max-height: 250px; object-fit: cover;" />
+<!-- TO ADD YOUR PIXEL ART: 
+1. Save the image you like from Pinterest to your computer.
+2. Open your README.md in GitHub's edit mode.
+3. Drag and drop the saved image directly into the GitHub text editor. 
+4. GitHub will automatically generate a link (https://github.com/user-attachments/assets/...). 
+5. Paste that link inside the src="..." below! -->![Uploading Screenshot 2026-10-05 230156.png…]()
 
-# 🌠 Sutirth Dubey
+
+<img src="https://i.imgur.com/q3vL3U9.gif" alt="Pixel Art Landscape" width="100%" style="border-radius: 15px; margin-bottom: 20px; max-height: 250px; object-fit: cover;" />
+
+#   Sutirth Dubey🌠 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI+%26+Deep+Tech+Enthusiast;Building+Agentic+AI+Workflows;Cybersecurity+%26+OSINT+Researcher" alt="Typing SVG" />
 
@@ -16,11 +24,6 @@
 🌱 I'm currently learning **MERN stack and scalable system design**  
 💬 Ask me about **Agentic RAG, OSINT, radar ML, or defence tech**  
 ⚡ Fun fact: **I write defence tech stories and run an Instagram channel on Indian defence science**  
-
-<br>
-
-### 📈 My Coding Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sutirthdubey20005&theme=tokyonight&hide_border=true&area=true" width="90%" />
 
 ---
 
