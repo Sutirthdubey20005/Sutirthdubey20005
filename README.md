@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 Sutirth Dubey
+#   Sutirth Dubey ☄️
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI+%26+Deep+Tech+Enthusiast;Cybersecurity+%26+OSINT+Researcher;Working+on+Autonomous+Driving" alt="Typing SVG" />
 
